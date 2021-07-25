@@ -4,5 +4,6 @@ public class TestSend {
     @Test
     public void test(){
         System.err.println("test");
+        System.err.println("test1");
     }
 }
